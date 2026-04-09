@@ -26,9 +26,6 @@ El proyecto permite navegar entre videos de forma sencilla, con una interfaz lim
 
 * HTML5
 * CSS3
-* Grid y Flexbox
-* Iconos SVG
-
 ---
 
 ## 📂 Estructura del proyecto
