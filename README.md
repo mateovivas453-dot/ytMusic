@@ -67,5 +67,3 @@ StreamNode/
 Mateo Vivas
 Estudiante de Ingeniería en Sistemas
 
-```
-```
